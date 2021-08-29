@@ -1,0 +1,20 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "This is my first NodeJS server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Day-101/NodeJS-server.git"
+  },
+  "author": "Day SY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Day-101/NodeJS-server/issues"
+  },
+  "homepage": "https://github.com/Day-101/NodeJS-server#readme"
+}
