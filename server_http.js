@@ -1,12 +1,12 @@
 const EventEmitter = require('events');
 
-let myListener = new EventEmitter();
+let emitter = new EventEmitter();
 
-myListener.on('Action!', function () {
+emitter.on('Action!', function () {
   console.log('Done !')
 });
 
-myListener.emit('Action!');
+emitter.emit('Action!');
 
 // let http = require('http');
 // let fs = require('fs');
