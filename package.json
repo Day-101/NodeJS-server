@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Day-101/NodeJS-server/issues"
   },
-  "homepage": "https://github.com/Day-101/NodeJS-server#readme"
+  "homepage": "https://github.com/Day-101/NodeJS-server#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
